@@ -1,0 +1,2 @@
+# kkutudict
+KKutu Words Dict
